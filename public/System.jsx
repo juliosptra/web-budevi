@@ -29,7 +29,7 @@ export const brandIdentity = {
         description: "Selamat datang di [Nama Brand Anda], toko online terpercaya Anda yang mengutamakan kualitas dan kenyamanan. Kami mulai dengan ide sederhana: memberikan akses mudah bagi pelanggan untuk mendapatkan produk berkualitas dengan harga terjangkau. Koleksi kami mencakup berbagai kategori, dari elektronik hingga fashion, serta produk rumah tangga hingga kecantikan. Dengan platform yang mudah digunakan, sistem pembayaran yang aman, dan pelayanan pelanggan yang luar biasa, kami berkomitmen untuk membuat pengalaman belanja online Anda semudah mungkin."
     },
     visiMisi: {
-        visi: "Menjadi platform belanja online yang paling terpercaya dan pilihan utama, memberikan pelanggan kami berbagai produk premium, pelayanan yang luar biasa, dan harga yang tak terkalahkan.",
+        visi: "Menjadi penyedia layanan logistik alat berat terkemuka yang dikenal karena inovasi, efisiensi, dan komitmen terhadap keselamatan serta kepuasan pelanggan, dengan mendukung pertumbuhan industri konstruksi, pertambangan, dan infrastruktur di Indonesia..",
         misi: [
             "Menawarkan produk berkualitas tinggi yang dapat diandalkan dalam berbagai kategori.",
             "Menyediakan solusi pengiriman yang cepat, aman, dan terjangkau.",
